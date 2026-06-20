@@ -39,8 +39,13 @@
 
 ## 📊 GitHub Stats:
 
-https://github-readme-stats.vercel.app/api?username=muhammad-waleed-dar&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api?username=muhammad-waleed-dar&show_icons=true&include_all_commits=true
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-waleed-dar&show_icons=true&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api?username=muhammad-waleed-dar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-waleed-dar&layout=compact&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-waleed-dar)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammad-waleed-dar&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com/?user=muhammad-waleed-dar)
 ![](https://github-readme-stats.shion.dev/api?username=muhammad-waleed-dar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammad-waleed-dar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
