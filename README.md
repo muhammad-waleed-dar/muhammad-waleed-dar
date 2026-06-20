@@ -39,6 +39,7 @@
 
 ## 📊 GitHub Stats:
 
+https://github-readme-stats.vercel.app/api?username=muhammad-waleed-dar&show_icons=true&theme=tokyonight
 ![](https://github-readme-stats.shion.dev/api?username=muhammad-waleed-dar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammad-waleed-dar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
