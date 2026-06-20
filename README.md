@@ -45,8 +45,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-waleed-dar&layout=compact&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-waleed-dar)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammad-waleed-dar&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com/?user=muhammad-waleed-dar)
-
 
 ---
 
