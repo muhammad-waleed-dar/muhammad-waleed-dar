@@ -1,5 +1,33 @@
-# 💫 About Me:
-# Hi there, I'm Muhammad Waleed Dar 👋<br><br>🎓 BS Information Technology student at PUCIT, Lahore<br><br>💻 Passionate about Computer Science, AI, and Software Development.<br><br>🌱 Learning programming, algorithms, and modern software engineering practices.<br><br>🚀 I enjoy building projects, exploring new technologies, and continuously improving my problem-solving skills.<br><br>📚 Strong believer in lifelong learning and using technology to create meaningful impact.<br><br>🤝 Open to collaborating on innovative projects, internships, and open-source contributions.<br><br>### Interests<br><br>* AI & ML<br>* Software Development<br>* Problem Solving<br>* Open Source<br><br>### Goals<br><br>* Build impactful technology solutions<br>* Contribute to the tech community<br>* Mentor and inspire future generations of learners<br><br>*"The best way to predict the future is to create it."*<br>
+# 💫 About Me
+
+## Hi there, I'm Muhammad Waleed Dar 👋
+
+🎓 BS Information Technology student at PUCIT, Lahore
+
+💻 Passionate about Computer Science, AI, and Software Development.
+
+🌱 Learning programming, algorithms, and modern software engineering practices.
+
+🚀 I enjoy building projects, exploring new technologies, and continuously improving my problem-solving skills.
+
+📚 Strong believer in lifelong learning and using technology to create meaningful impact.
+
+🤝 Open to collaborating on innovative projects, internships, and open-source contributions.
+
+### Interests
+
+- AI & ML
+- Software Development
+- Problem Solving
+- Open Source
+
+### Goals
+
+- Build impactful technology solutions
+- Contribute to the tech community
+- Mentor and inspire future generations of learners
+
+*"The best way to predict the future is to create it."*
 
 
 ## 🌐 Socials:
