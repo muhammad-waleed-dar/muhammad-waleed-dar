@@ -27,7 +27,7 @@
 
 - 🌐 **Instagram**: https://instagram.com/waleed_dar07  
 - 💼 **LinkedIn**: https://www.linkedin.com/in/m-waleed-dar-5083a0364/
-- 📧 **Email**: mailto:waleed123darzafar@gmail.com  
+- 📧 **Email**: waleed123darzafar@gmail.com  
 
 ---
 
