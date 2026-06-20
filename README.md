@@ -40,10 +40,3 @@
 ![](https://streak-stats.demolab.com/?user=muhammad-waleed-dar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammad-waleed-dar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammad-waleed-dar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammad-waleed-dar&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
