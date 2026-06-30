@@ -1,6 +1,11 @@
 ## 💫 About Me
 
-## Hi there, I'm Muhammad Waleed Dar 👋
+# Hi there! 👋 I'm Muhammad Waleed Dar!!!
+
+<!-- Animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+</p>
 
 - 🎓 BS Information Technology student at PUCIT, Lahore
 - 💻 Passionate about Computer Science, AI, and Software Development.
