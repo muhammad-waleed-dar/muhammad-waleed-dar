@@ -14,6 +14,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: muhammad-waleed-dar
@@ -21,9 +25,6 @@ jobs:
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/checkout@v4
-        with:
-          ref: output
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: output
