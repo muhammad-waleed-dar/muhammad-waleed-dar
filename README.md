@@ -13,7 +13,7 @@
 - 💻 Passionate about Computer Science, AI, and Software Development.
 - 🧠 I enjoy building projects, exploring new technologies, and continuously improving my problem-solving skills. Strong believer in lifelong learning and using technology to create meaningful impact.
 
-**🤝 Open to collaborating on innovative projects, internships, and open-source contributions.**
+**🤝 Open to collaborating on innovative projects and open-source contributions.**
 
 ## Interests
 - AI & ML
