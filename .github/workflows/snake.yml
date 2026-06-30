@@ -24,7 +24,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: output
-
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: output
