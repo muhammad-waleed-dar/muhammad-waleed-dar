@@ -89,8 +89,6 @@
 </p>
 
 
----
-
 ## Let's Build Something Fun n Cool!
 
 I'm always excited to collaborate, contribute to open source, or just talk about code!!! Feel free to reach out!!!
