@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=30&pause=1200&color=DC143C&center=true&vCenter=true&width=680&lines=AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=30&pause=1200&color=F4A7B9&center=true&vCenter=true&width=680&lines=AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
