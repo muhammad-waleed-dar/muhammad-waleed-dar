@@ -24,12 +24,6 @@
 
 ---
 
-## 🌐 SOCIALS (Let's Connect 🔗)
-
-- 🌐 **Instagram**: https://instagram.com/waleed_dar07  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/m-waleed-dar-5083a0364/
-- 📧 **Email**: waleed123darzafar@gmail.com  
-
 ---
 
 
@@ -71,7 +65,7 @@
 ---
 
 
-## 📫 CONNECT WITH ME
+## 📫 CONNECT WITH ME - MY SOCIALS (Let's Connect 🔗)
 
 
 <p align="center">
