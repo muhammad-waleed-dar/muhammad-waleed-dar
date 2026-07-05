@@ -133,3 +133,7 @@
 I'm always excited to collaborate, contribute to open source, or just talk about code!!! Feel free to reach out!!!
 
 ---
+
+<div align="center">
+  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+</div>
