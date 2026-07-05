@@ -98,7 +98,7 @@
 
 ---
 
-## `> activity.graph`
+## `> ACTIVITY GRAPH`
 
 <div align="center">
 
