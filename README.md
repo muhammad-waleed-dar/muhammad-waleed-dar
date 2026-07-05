@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## `> 👨‍💻 About Me`
 - 🎓 BS Information Technology student at PUCIT, Lahore
 - 🤖 Currently entusiastic about learning and building **AI models and automation** & Exploring **Machine Learning**... Also learning programming, algorithms, and modern software engineering practices.
 - 💻 Passionate about Computer Science, AI, and Software Development, and Embedded Systems.
@@ -43,7 +43,7 @@
 ---
 
 
-## 📊 GITHUB STATS
+## `> 📊 GITHUB STATS`
 
 
 <p align="center">
@@ -60,7 +60,7 @@
 ---
 
 
-## 🐍 CONTRIBUTION SNAKE
+## `> 🐍 CONTRIBUTION SNAKE`
 
 
 <picture>
@@ -73,7 +73,7 @@
 ---
 
 
-## 💻 TECH STACK:
+## `> 💻 TECH STACK`
 
 
 **Languages**  
@@ -109,7 +109,7 @@
 ---
 
 
-## 📫 CONNECT WITH ME - MY SOCIALS (Let's Connect 🔗)
+## `> 📫 CONNECT WITH ME - MY SOCIALS (Let's Connect 🔗)`
 
 
 <p align="center">
