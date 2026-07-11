@@ -102,6 +102,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![Imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-6C63FF?style=flat-square&logo=python&logoColor=white)](https://imbalanced-learn.org/)
 
 
 ---
