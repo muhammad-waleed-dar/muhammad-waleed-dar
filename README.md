@@ -96,7 +96,7 @@
 ![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=flat-square&logo=dosbox&logoColor=white)
 
 ** Framework & Libraries**  
-
+![FastAPI](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
