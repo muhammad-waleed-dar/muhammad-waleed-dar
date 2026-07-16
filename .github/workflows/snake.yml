@@ -29,3 +29,5 @@ jobs:
         with:
           branch: output
           commit_message: generate snake
+          push_options: --force
+
