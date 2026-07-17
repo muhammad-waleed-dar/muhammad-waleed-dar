@@ -27,7 +27,7 @@
 
 ## `> 👨‍💻 About Me`
 - 🎓 BS Information Technology student at PUCIT - FCIT, University of the Punjab, Lahore
-- 🤖 Currently entusiastic about learning and building **AI models and automation** & Exploring **Machine Learning**... Also learning programming, algorithms, and modern software engineering practices.
+- 🤖 Currently entusiastic about learning and building **AI models and automation, LLMs & modern backend AI architectures** & Exploring **Machine Learning**... Also learning programming, algorithms, and modern software engineering practices.
 - 💻 Passionate about Computer Science, AI, Software Development, and Embedded Systems.
 - 🧠 I enjoy building projects, exploring new technologies, and continuously improving my problem-solving skills. Strong believer in lifelong learning and using technology to create meaningful impact.
 
